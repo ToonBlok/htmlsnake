@@ -1,0 +1,4 @@
+#!/bin/bash
+
+firefox index.html &
+vim -p js/game.js js/snake.js js/food.js js/main.js js/tailpiece.js
